@@ -15,12 +15,12 @@ Meta.DockerRequired=False
 Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
 Meta.ExtraSetupStepsURI=https://discourse.cubecoders.com/docs?topic=3322?utm_source=ampcreate&utm_content=arkse
-Meta.Prerequisites=[]
+Meta.Prerequsites=[]
 Meta.ExtraContainerPackages=[]
 Meta.ConfigReleaseState=
 Meta.NoCommercialUsage=False
 Meta.ConfigVersion=1.2
-Meta.AppConfigId=216356ee-197d-4eec-852d-d22256613b59
+Meta.AppConfigId=373c4c88-9e98-4859-a7f3-fda7d2e08eab
 App.DisplayName=ARK: Survival Evolved
 App.RootDir=./ark-se/
 App.BaseDirectory=./ark-se/376030/
