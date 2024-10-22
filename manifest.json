@@ -1,9 +1,9 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"id": "7f87c1de-9954-483d-85b4-927d3746252b",
+	"authors": ["Inferno Servers", "Mike"],
+	"origin": "https://github.com/infernoservers/AMPTemplates.git",
+	"url": "https://github.com/infernoservers/AMPTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "IS",
 	"repotype": "AppTemplates"
 }
