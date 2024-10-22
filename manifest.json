@@ -4,6 +4,6 @@
 	"origin": "https://github.com/infernoservers/AMPTemplates.git",
 	"url": "https://github.com/infernoservers/AMPTemplates",
 	"imagefile": "",
-	"prefix": "IS",
+	"prefix": ".",
 	"repotype": "AppTemplates"
 }
